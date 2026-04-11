@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# Compilação Java
+*.class
+
+# Logs
+*.log
+
+# IDEs (caso use futuramente)
+.idea/
+.vscode/
+*.iml
+
+# Linux / Sistema
+.DS_Store
+*.swp
